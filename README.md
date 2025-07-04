@@ -8,8 +8,7 @@ This is a static replica of the Amazon homepage built using **HTML** and **CSS**
 
 - Amazon-like homepage layout  
 - Header with logo, search bar, and navigation  
-- Product grid with sections  
-- Responsive design (optional if you've added media queries)  
+- Product grid with sections   
 - Pure HTML and CSS — no JavaScript used
 
 ---
